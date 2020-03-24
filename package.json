@@ -1,0 +1,9 @@
+{
+  "name": "o",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.644.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}
